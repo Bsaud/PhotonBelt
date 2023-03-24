@@ -7,4 +7,4 @@ website Blocker using hosts file
 -restores hosts file
 -removes all changes that has been made to hosts file
 
-for further information or collabration please contact me @aresenco.x in instagram 
+for further information or collabration please contact me @ibnalslateen0 in instagram 
